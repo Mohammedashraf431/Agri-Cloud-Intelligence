@@ -1,6 +1,6 @@
 # 🌾 Cloud Cost Intelligence Platform for Agriculture
 **Specialization:** AI & Cloud Computing  
-**Developer:** AK  
+**Developer:** Mohammed Ashraf  
 **Tech Stack:** Python 3.12, Pandas, Matplotlib, Openpyxl
 
 ## 📌 Project Overview
